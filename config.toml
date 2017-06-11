@@ -3,6 +3,8 @@ languageCode = "de-de"
 title = "kanjikata"
 theme = "kanjikata"
 
+MetaDataFormat = "yaml"
+
 DefaultContentLanguage = "de"
 
 copyright = "Copyright (c) 2017, Jeffrey Scherling; all rights reserved."
