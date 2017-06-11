@@ -12,6 +12,4 @@ Testing Shortcodes
 -readDir ./static
 {{<readDir>}}
 
--readFile ./static/bla.txt
-{{<readFile>}}
 
