@@ -2,9 +2,9 @@
 
 # All paths
 /*
-
 # Block site from being framed with X-Frame-Options
  X-Frame-Options: DENY
+ X-XSS-Protection: 1; mode=block
 
 # Prevent browsers from incorrectly detecting non-scripts as scripts
  X-Content-Type-Options: nosniff
@@ -18,5 +18,5 @@
 
 
 # modified version
- Content-Security-Policy: default-src 'none'; frame-ancestors 'none';
+ Content-Security-Policy: default-src 'none'; frame-ancestors 'none'
 
