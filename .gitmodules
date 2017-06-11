@@ -1,0 +1,3 @@
+[submodule "themes/kanjikata"]
+	path = themes/kanjikata
+	url = https://github.com/liodopolus/kanjikata.git
