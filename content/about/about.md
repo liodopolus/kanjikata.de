@@ -1,8 +1,7 @@
-+++
-date = "2017-05-21T04:36:20+02:00"
-title = "about"
-
-+++
+---
+date: 2017-05-21T04:36:20+02:00
+title: about
+---
 
 Willkommen auf meinem privaten Blog Kanjikata!
 

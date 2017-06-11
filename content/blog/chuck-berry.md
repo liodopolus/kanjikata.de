@@ -1,8 +1,7 @@
-+++
-date = "2017-05-27T15:46:32+02:00"
-title = "chuck berry"
-
-+++
+---
+date: 2017-05-27T15:46:32+02:00
+title: chuck berry
+---
 
 Ein großartiger Rock Musiker!
 
