@@ -1,0 +1,2 @@
+# kanjikata.de
+my website
