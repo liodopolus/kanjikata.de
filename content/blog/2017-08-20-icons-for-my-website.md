@@ -5,3 +5,6 @@ image: null
 ---
 Howto embed the icons
 http://google.github.io/material-design-icons/
+
+`<i class="material-icons">face</i>`
+
