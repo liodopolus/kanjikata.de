@@ -14,3 +14,5 @@ http://www.developerdrive.com/2014/05/how-to-easily-use-google-fonts-with-sass/
 
 Google Fonts
 https://fonts.google.com/?selection.family=Source+Sans+Pro
+https://www.fonts.com/de/web-fonts/google
+
